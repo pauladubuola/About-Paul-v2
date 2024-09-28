@@ -1,0 +1,43 @@
+.body{
+    background-color: gray;
+}
+.tbcolor{
+    color:white
+}
+.Movie{
+    text-align: center;
+    color:firebrick
+}
+.movieimg{
+    text-align: center;
+}
+.Description{
+    text-align:center;
+    color:aliceblue;
+}
+.section{
+    text-align: center;
+    color:aliceblue
+}
+.randb{
+    text-align: center;
+    color: blueviolet;
+}
+.rap{
+    text-align: center;
+    color: wheat;
+}
+.places{
+    text-align: center;
+    color: aquamarine;
+}
+.favorites{
+    text-align: end;
+    color: aquamarine;
+}
+.h2{
+    color:aquamarine
+}
+.tvimg{
+    text-align: center;
+}
